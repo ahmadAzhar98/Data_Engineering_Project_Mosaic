@@ -14,5 +14,10 @@ activate virtual environment - source <name>/bin/activate
 ## Step 3
 run this command - pip install -r requirements.txt
 
-## Step 4
+## Step 4 
+create an developer API account for reddit from this link
+https://www.reddit.com/prefs/apps
+to generate REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET and USER_AGENT. Once done create an .env and paste them there.
+
+## Step 5
 cd scripts and run each pipeline one by one using the command - python3 <pipeline_name> as a result new data will appear in dataset/raw and dataset/clean
