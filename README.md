@@ -10,5 +10,8 @@ create a virtual environment using this command - python3 -m venv <env_name>
 ## Step 2
 activate virtual environment - source <name>/bin/activate  
 
-## Step 3 
+## Step 3
+run this command - pip install -r requirements.txt
+
+## Step 4
 cd scripts and run each pipeline one by one using the command - python3 <pipeline_name> as a result new data will appear in dataset/raw and dataset/clean
