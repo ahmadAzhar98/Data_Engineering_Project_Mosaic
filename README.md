@@ -1,4 +1,5 @@
-# About the Project
+# Overview and Scenario
+You have been hired by the Data Mosaic Initiative, an organization aiming to gather multi-faceted insights on emerging topics. Your mission is to collect data from multiple sources of different types (structured, unstructured, semi-structured), store or upload it to a repository, and produce a short report that demonstrates your pipeline design and addresses theoretical considerations.
 
 
 # Link for dataset
